@@ -1,0 +1,82 @@
+#footer{
+    background-color: #001329;
+
+}
+
+
+nav .text-matricula{
+    color: #00ffc8;
+}
+
+#Principal img{
+    max-height: 60vh;
+    object-fit: cover;
+
+}
+
+#Principal{
+    position: relative;
+}
+
+#Principal #contenido{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    color:whitesmoke;
+}
+
+#Principal .container, #Principal .row{
+    width: 100%;
+    height: 100%;
+}
+
+
+#container{
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+}
+#footer a{
+    text-decoration: none;
+    color:white;
+
+}
+
+nav img{
+    width: 80px
+}
+
+.vision{
+     width: 100%;
+     background-color:  #001329;
+ 
+}
+
+
+
+.vision img{
+    width: 107%;
+    height: 100%;
+
+    
+}
+
+.vision .container{
+    background-color:  #011225;
+    width: 100%;
+}
+
+.vision #contenido{
+    color: rgb(255, 255, 255);
+    padding:35px;
+}
+
+
+ .vision .row{
+    width: 100%;
+    height: 100%;
+}
+
